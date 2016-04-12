@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Knight Custom Electronics ]]></title>
-        <description><![CDATA[Knight Custom Electronics ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Your Only Local Electronics Experts]]></title>
+        <description><![CDATA[Your Only Local Electronics Experts]]></description>
+        <link>https://thegrid.ai/knight-custom-electronics/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 17:36:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Apr 2016 17:56:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/knight-custom-electronics/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Enjoy elite services from our knowledgable staff who specialize in custom DirecTV installations, home theater installations and upgrades new construction prewires and so much more! </p>]]></description>
+            <link>https://thegrid.ai/knight-custom-electronics/8e41a457-d9df-469f-aa02-6cdeac61065a/index.html</link>
+            <guid isPermaLink="false">8e41a457-d9df-469f-aa02-6cdeac61065a</guid>
+            <pubDate>Tue, 12 Apr 2016 17:56:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Get the job done Your Way, the Right Way and on Time! Enjoy elite services from our knowledgable staff who specialize in custom DirecTV installations, home theater installs and upgrades new construction prewires and so much more! </p>]]></description>
-            <link>undefinedget-the-job-done-your-way-the-right-way-and-on-time/index.html</link>
+            <link>https://thegrid.ai/knight-custom-electronics/get-the-job-done-your-way-the-right-way-and-on-time/index.html</link>
             <guid isPermaLink="false">b267eae9-d9ef-4acf-a12e-9c805c94a9e4</guid>
             <pubDate>Tue, 12 Apr 2016 17:35:32 GMT</pubDate>
         </item>
