@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-14T22:22:31.738Z'
-dateModified: '2016-06-14T22:21:08.316Z'
+datePublished: '2016-06-14T22:27:47.378Z'
+dateModified: '2016-06-14T22:25:58.591Z'
 title: ''
 author:
   - name: ''
@@ -18,4 +18,4 @@ starred: true
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/228c5a24-56b9-4965-90dc-e3740db1b793.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b63cc019-aa2c-418b-944c-dbff37955254.png)
