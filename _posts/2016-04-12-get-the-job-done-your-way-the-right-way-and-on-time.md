@@ -2,12 +2,11 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-14T22:17:21.762Z'
-dateModified: '2016-06-14T22:17:17.907Z'
+datePublished: '2016-06-14T22:22:31.738Z'
+dateModified: '2016-06-14T22:21:08.316Z'
 title: ''
 author:
   - name: ''
@@ -19,4 +18,4 @@ starred: true
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a77e940c-1b06-417f-86d2-9195aaf4f126.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/228c5a24-56b9-4965-90dc-e3740db1b793.jpg)
