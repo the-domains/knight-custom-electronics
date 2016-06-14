@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Contact Us
-datePublished: '2016-06-14T21:25:14.626Z'
-dateModified: '2016-06-14T21:23:45.904Z'
+description: Office ~ (719) 539-3092
+datePublished: '2016-06-14T21:27:29.835Z'
+dateModified: '2016-06-14T21:27:09.424Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-14-contact-us.md
@@ -17,8 +17,6 @@ url: contact-us/index.html
 _type: Article
 
 ---
-Contact Us
-
 Office ~ (719) 539-3092
 
 Brian's Cell for Technical Support ~ (719) 207-0984
