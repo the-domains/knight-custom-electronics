@@ -1,14 +1,9 @@
 ---
-datePublished: '2016-06-14T21:56:46.831Z'
-sourcePath: _posts/2016-06-07-recycling.md
-inFeed: true
-authors: []
+inFeed: false
 hasPage: true
+inNav: true
+inLanguage: null
 keywords: []
-author: []
-dateModified: '2016-06-14T21:56:09.210Z'
-title: ''
-publisher: null
 description: >-
   Knight Custom Electronics upholds a strict 100% NO LANDFILL Policy. From
   office trash to electronics, everything we put out is reused or recycled. This
@@ -22,11 +17,16 @@ description: >-
   our high recycling standards are met and exceeded. We have found ERI to have
   the most responsible recycling services available in Colorado, as they support
   our 100% NO LANDFILL Policy.
-inLanguage: null
-inNav: false
+datePublished: '2016-06-14T22:46:00.238Z'
+dateModified: '2016-06-14T22:45:50.811Z'
+title: ''
+author: []
+sourcePath: _posts/2016-06-07-recycling.md
+authors: []
+publisher: null
 starred: false
 url: recycling/index.html
-_type: Article
+_type: WebPage
 
 ---
 Knight Custom Electronics upholds a strict 100% NO LANDFILL Policy. From office trash to electronics, everything we put out is reused or recycled. This is our promise to you. Here at Knight Custom Electronics we have a high standard when it comes to caring for our environment and giving back to our beloved community. We continue to support green practices and the recycling of all electronic equipment by offering free recycling services. Although most electronics are free to recycle through us we do ask for a small $5-10 donation to help cover our recycling costs. Knight Custom Electronics has teamed up with [Electronics Recyclers Electronics, Inc.][0] (ERI) to insure that our high recycling standards are met and exceeded. We have found ERI to have the most responsible recycling services available in Colorado, as they support our 100% NO LANDFILL Policy.
