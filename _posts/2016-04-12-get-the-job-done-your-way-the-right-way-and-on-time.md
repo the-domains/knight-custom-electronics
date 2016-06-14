@@ -4,11 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Get the job done Your Way, the Right Way and on Time! '
-datePublished: '2016-06-07T19:00:26.093Z'
-dateModified: '2016-06-07T19:00:22.669Z'
+description: ''
+datePublished: '2016-06-14T21:06:49.905Z'
+dateModified: '2016-06-14T21:06:47.145Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-12-get-the-job-done-your-way-the-right-way-and-on-time.md
 authors: []
 publisher: null
@@ -17,6 +19,5 @@ url: get-the-job-done-your-way-the-right-way-and-on-time/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3b4b61e-de53-48c3-b797-984cbe93f2f4.jpg)
-
-Get the job done Your Way, the Right Way and on Time!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a77e940c-1b06-417f-86d2-9195aaf4f126.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d507ee3-f031-489e-84f7-e6d365c43799.jpg)
