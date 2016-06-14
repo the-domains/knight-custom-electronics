@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Office ~ (719) 539-3092
-datePublished: '2016-06-14T21:31:06.783Z'
-dateModified: '2016-06-14T21:31:01.138Z'
+datePublished: '2016-06-14T22:35:27.620Z'
+dateModified: '2016-06-14T22:35:15.829Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-14-contact-us.md
@@ -14,7 +14,7 @@ authors: []
 publisher: null
 starred: false
 url: contact-us/index.html
-_type: Article
+_type: WebPage
 
 ---
 Office ~ (719) 539-3092
