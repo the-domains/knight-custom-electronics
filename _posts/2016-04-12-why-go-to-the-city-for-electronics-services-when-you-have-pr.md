@@ -1,5 +1,5 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Why go to the city for electronic services when you have elite services right
   here, locally? Visit us at 136 W. Rainbow Blvd. Salida CO. 81201. 
-datePublished: '2016-06-14T22:42:41.470Z'
-dateModified: '2016-06-14T22:42:39.921Z'
+datePublished: '2016-06-14T22:44:52.513Z'
+dateModified: '2016-06-14T22:44:43.664Z'
 title: ''
 author:
   - name: ''
@@ -19,7 +19,7 @@ authors: []
 publisher: null
 starred: false
 url: why-go-to-the-city-for-electronics-services-when-you-have-pr/index.html
-_type: Article
+_type: WebPage
 
 ---
 Why go to the city for electronic services when you have elite services right here, locally? Visit us at 136 W. Rainbow Blvd. Salida CO. 81201\. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fa46d04-d11d-4da5-ab33-2e1f3bcba756.png)
