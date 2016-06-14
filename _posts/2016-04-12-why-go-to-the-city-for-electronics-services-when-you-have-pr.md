@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Why go to the city for electronic services when you have elite services right
   here, locally? Visit us at 136 W. Rainbow Blvd. Salida CO. 81201. 
-datePublished: '2016-06-14T21:22:49.585Z'
-dateModified: '2016-06-14T21:22:17.549Z'
+datePublished: '2016-06-14T22:42:32.072Z'
+dateModified: '2016-06-14T22:41:40.694Z'
 title: ''
 author:
   - name: ''
