@@ -1,9 +1,14 @@
 ---
+datePublished: '2016-06-14T21:56:46.831Z'
+sourcePath: _posts/2016-06-07-recycling.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
+author: []
+dateModified: '2016-06-14T21:56:09.210Z'
+title: ''
+publisher: null
 description: >-
   Knight Custom Electronics upholds a strict 100% NO LANDFILL Policy. From
   office trash to electronics, everything we put out is reused or recycled. This
@@ -17,13 +22,8 @@ description: >-
   our high recycling standards are met and exceeded. We have found ERI to have
   the most responsible recycling services available in Colorado, as they support
   our 100% NO LANDFILL Policy.
-datePublished: '2016-06-14T21:44:15.859Z'
-dateModified: '2016-06-14T21:43:21.481Z'
-title: ''
-author: []
-sourcePath: _posts/2016-06-07-recycling.md
-authors: []
-publisher: null
+inLanguage: null
+inNav: false
 starred: false
 url: recycling/index.html
 _type: Article
