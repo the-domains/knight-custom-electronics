@@ -4,9 +4,12 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Recycling
-datePublished: '2016-06-14T20:51:13.787Z'
-dateModified: '2016-06-14T20:51:12.025Z'
+description: >-
+  Knight Custom Electronics upholds a strict 100% NO LANDFILL Policy. From
+  office trash to electronics, everything we put out is reused and recycled.
+  This is our promise to you.
+datePublished: '2016-06-14T21:28:41.445Z'
+dateModified: '2016-06-14T21:28:29.119Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-07-recycling.md
@@ -17,13 +20,7 @@ url: recycling/index.html
 _type: Article
 
 ---
-Recycling
-
-Knight Custom Electronics upholds a strict 100% NO LANDFILL Policy. From office trash to electronics, everything we put out is reused and recycled. This is our promise to you.
-
-Here at Knight Custom Electronics we have a high standard when it comes to caring for our environment and giving back to our beloved community. We continue to support green practices and the recycling of all electronic equipment by offering free recycling services. Although most electronics are free to recycle through us we do ask for a small $5-10 donation to help cover our recycling costs. 
-
-Knight Custom Electronics has teamed up with [Electronics Recyclers Electronics, Inc.][0] (ERI) to insure that our high recycling standards are met and exceeded. We have found ERI to have the most responsible recycling services available in Colorado, as they support our 100% NO LANDFILL Policy. 
+Knight Custom Electronics upholds a strict 100% NO LANDFILL Policy. From office trash to electronics, everything we put out is reused and recycled. This is our promise to you. Here at Knight Custom Electronics we have a high standard when it comes to caring for our environment and giving back to our beloved community. We continue to support green practices and the recycling of all electronic equipment by offering free recycling services. Although most electronics are free to recycle through us we do ask for a small $5-10 donation to help cover our recycling costs. Knight Custom Electronics has teamed up with [Electronics Recyclers Electronics, Inc.][0] (ERI) to insure that our high recycling standards are met and exceeded. We have found ERI to have the most responsible recycling services available in Colorado, as they support our 100% NO LANDFILL Policy.
 
 Recyclables we charge for;
 
