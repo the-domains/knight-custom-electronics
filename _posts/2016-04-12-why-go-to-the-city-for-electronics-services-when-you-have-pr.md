@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Location
-datePublished: '2016-06-07T19:18:57.848Z'
-dateModified: '2016-06-07T19:18:56.542Z'
+datePublished: '2016-06-14T20:58:57.872Z'
+dateModified: '2016-06-14T20:58:31.840Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: >-
   _posts/2016-04-12-why-go-to-the-city-for-electronics-services-when-you-have-pr.md
 authors: []
