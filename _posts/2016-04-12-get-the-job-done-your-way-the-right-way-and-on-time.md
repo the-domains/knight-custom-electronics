@@ -2,11 +2,12 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-14T22:27:47.378Z'
-dateModified: '2016-06-14T22:25:58.591Z'
+datePublished: '2016-06-14T22:29:32.396Z'
+dateModified: '2016-06-14T22:28:32.793Z'
 title: ''
 author:
   - name: ''
