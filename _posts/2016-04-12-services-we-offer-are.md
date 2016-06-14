@@ -3,29 +3,20 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: Services We Offer Are;
-datePublished: '2016-04-12T18:17:33.540Z'
-dateModified: '2016-04-12T18:17:32.952Z'
+description: High Definition Audio and Video Distribution
+datePublished: '2016-06-14T21:18:22.728Z'
+dateModified: '2016-06-14T21:17:54.132Z'
 title: ''
 author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
 sourcePath: _posts/2016-04-12-services-we-offer-are.md
-published: true
+authors: []
+publisher: null
+starred: false
 url: services-we-offer-are/index.html
 _type: Article
 
 ---
-Services We Offer Are;
-
-DirecTV Services, Installations and Technical Support
-
 High Definition Audio and Video Distribution
 
 Home Theater Installations and Upgrades
@@ -36,6 +27,10 @@ Central Vac
 
 Home lighting and Climate Control
 
-Automated Gates, Doors and Blinds
+Automated Gates, Doors, Blinds and Fans
 
 New Construction Prewires
+
+DirecTV Services, Installations and Technical Support
+
+Technical Support for a Wide Range of Electronic Systems
