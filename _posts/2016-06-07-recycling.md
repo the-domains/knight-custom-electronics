@@ -17,8 +17,8 @@ description: >-
   our high recycling standards are met and exceeded. We have found ERI to have
   the most responsible recycling services available in Colorado, as they support
   our 100% NO LANDFILL Policy.
-datePublished: '2016-06-14T21:42:50.847Z'
-dateModified: '2016-06-14T21:42:07.819Z'
+datePublished: '2016-06-14T21:43:12.956Z'
+dateModified: '2016-06-14T21:42:56.420Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-07-recycling.md
