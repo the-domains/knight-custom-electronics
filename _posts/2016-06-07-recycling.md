@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Recycling
-datePublished: '2016-06-07T20:24:02.380Z'
-dateModified: '2016-06-07T20:22:24.153Z'
+datePublished: '2016-06-14T20:51:13.787Z'
+dateModified: '2016-06-14T20:51:12.025Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-07-recycling.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-07-recycling.md
 url: recycling/index.html
 _type: Article
 
@@ -39,8 +39,5 @@ FREE Recyclables;
 * Radios
 * VCR's and DVD Players
 * Monitors
-*   
-  
-
 
 [0]: http://electronicrecyclers.com/
