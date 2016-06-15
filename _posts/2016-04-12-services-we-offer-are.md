@@ -1,19 +1,19 @@
 ---
-inFeed: false
-hasPage: true
+inFeed: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: High Definition Audio and Video Distribution
-datePublished: '2016-06-15T03:05:42.807Z'
-dateModified: '2016-06-15T03:01:31.899Z'
+datePublished: '2016-06-15T03:06:50.564Z'
+dateModified: '2016-06-15T03:06:30.517Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-12-services-we-offer-are.md
 authors: []
 publisher: null
 starred: false
-url: services-we-offer-are/index.html
 _type: Blurb
 
 ---
