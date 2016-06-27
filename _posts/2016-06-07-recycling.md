@@ -17,8 +17,8 @@ description: >-
   our high recycling standards are met and exceeded. We have found ERI to have
   the most responsible recycling services available in Colorado, as they support
   our 100% NO LANDFILL Policy.
-datePublished: '2016-06-22T15:46:30.195Z'
-dateModified: '2016-06-22T15:46:14.138Z'
+datePublished: '2016-06-27T15:53:01.233Z'
+dateModified: '2016-06-27T15:52:55.056Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-07-recycling.md
@@ -52,5 +52,7 @@ Knight Custom Electronics upholds a strict 100% NO LANDFILL Policy. From office 
 • Radios 
 
 • VCR's and DVD Players 
+
+• Remotes
 
 [0]: http://electronicrecyclers.com/
