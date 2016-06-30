@@ -7,8 +7,8 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-30T15:36:25.100Z'
-dateModified: '2016-06-30T15:35:59.569Z'
+datePublished: '2016-06-30T15:36:35.351Z'
+dateModified: '2016-06-30T15:36:26.871Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-12-get-the-job-done-your-way-the-right-way-and-on-time.md
