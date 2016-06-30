@@ -7,10 +7,12 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-30T15:36:35.351Z'
-dateModified: '2016-06-30T15:36:26.871Z'
+datePublished: '2016-06-30T15:37:39.962Z'
+dateModified: '2016-06-30T15:37:25.705Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-12-get-the-job-done-your-way-the-right-way-and-on-time.md
 authors: []
 publisher: null
@@ -18,4 +20,4 @@ starred: true
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9062558-72dc-4d82-a12e-0731b58a1851.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cca632d1e02261cfcaba43b69504d45c/croprotate.jpg?cropheight=799&cropwidth=1800&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc9062558-72dc-4d82-a12e-0731b58a1851.jpg&x=0&y=0)
