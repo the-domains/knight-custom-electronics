@@ -2,21 +2,20 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: ''
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9062558-72dc-4d82-a12e-0731b58a1851.jpg
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-28T21:52:23.022Z'
-dateModified: '2016-06-28T21:52:10.979Z'
+datePublished: '2016-06-30T15:36:25.100Z'
+dateModified: '2016-06-30T15:35:59.569Z'
 title: ''
-author:
-  - name: ''
-    url: ''
+author: []
 sourcePath: _posts/2016-04-12-get-the-job-done-your-way-the-right-way-and-on-time.md
 authors: []
 publisher: null
 starred: true
-_type: Blurb
+_type: MediaObject
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/70a39005aff2b0e03adbe69f41380ae96c722969.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9062558-72dc-4d82-a12e-0731b58a1851.jpg)
