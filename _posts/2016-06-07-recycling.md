@@ -16,8 +16,8 @@ description: >-
   recycling services available in Colorado, as they support our 100% NO LANDFILL
   Policy. While we work hard to offer this free service, we also accept
   donations to help us cover the high recycling costs.
-datePublished: '2016-07-06T18:12:36.373Z'
-dateModified: '2016-07-06T18:12:31.836Z'
+datePublished: '2016-07-06T18:13:52.523Z'
+dateModified: '2016-07-06T18:13:47.282Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-07-recycling.md
