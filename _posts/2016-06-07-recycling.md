@@ -5,42 +5,47 @@ inNav: true
 inLanguage: null
 keywords: []
 description: >-
-  Knight Custom Electronics upholds a strict 100% NO LANDFILL Policy. This means
-  that all the trash we produce, from our office to our job sites, gets
-  recycled, renewed or reused. We have a high standard when it comes to caring
-  for our environment and giving back to our beloved community, which is why we
-  support green practices and the recycling of all electronic equipment by
-  offering free recycling services. Knight Custom Electronics has teamed up with
-  Electronic Recyclers International, Inc. (ERI) to insure that our high
-  standards are met and exceeded. We have found ERI to have the most responsible
-  recycling services available in Colorado, as they support our 100% NO LANDFILL
-  Policy. While we work hard to offer this free service, we also accept
-  donations to help us cover the high recycling costs.
-datePublished: '2016-07-06T18:13:52.523Z'
-dateModified: '2016-07-06T18:13:47.282Z'
+  Knight Custom Electronics upholds a strict 100% NO LANDFILL policy, when it
+  comes to trash and discarded items. This means that all the trash we produce,
+  from our office to our job sites, gets recycled, renewed or reused. We have a
+  high standard when it comes to caring for our environment and giving back to
+  our beautiful community, which is why we support green practices and the
+  recycling of electronic equipment by offering recycling services for all
+  electronics. While we work hard to offer this service for mostly free, we do
+  have pricing for some electronics that have a high recycling expense, we also
+  accept donations to help us cover the cost. 
+datePublished: '2016-07-21T17:57:48.297Z'
+dateModified: '2016-07-21T17:57:43.299Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-07-recycling.md
+via: {}
 authors: []
-publisher: null
+publisher: {}
 starred: false
 url: recycling/index.html
 _type: WebPage
 
 ---
-Knight Custom Electronics upholds a strict 100% NO LANDFILL Policy. This means that all the trash we produce, from our office to our job sites, gets recycled, renewed or reused. We have a high standard when it comes to caring for our environment and giving back to our beloved community, which is why we support green practices and the recycling of all electronic equipment by offering free recycling services. Knight Custom Electronics has teamed up with [Electronic Recyclers International, Inc.][0] (ERI) to insure that our high standards are met and exceeded. We have found ERI to have the most responsible recycling services available in Colorado, as they support our 100% NO LANDFILL Policy. While we work hard to offer this free service, we also accept donations to help us cover the high recycling costs.
+Knight Custom Electronics upholds a strict 100% NO LANDFILL policy, when it comes to trash and discarded items. This means that all the trash we produce, from our office to our job sites, gets recycled, renewed or reused. We have a high standard when it comes to caring for our environment and giving back to our beautiful community, which is why we support green practices and the recycling of electronic equipment by offering recycling services for all electronics. While we work hard to offer this service for mostly free, we do have pricing for some electronics that have a high recycling expense, we also accept donations to help us cover the cost. 
 
 **Recyclables We Charge For;**
 
 • TVs and Monitors - $25 for under 30", $45 for over 30". 
 
-• Flat screen TVs or Monitors - $15 for any size
+• Flat screen TVs or Monitors - $25 for any size
 
-• Large Floor Standing Printers - $25 
+• Large Floor Standing Printers - $45 
+
+• Medium Printers - $25 - These tend to have the large roller ink cartridges
+
+• Smal Printers - $15 
+
+\*\*Please do not allow these prices to discourage you from recycling your electronics. If you are on a fixed income or have trouble paying, please talk to me first, we'll work it out. 
+
+\*\*We also pick up electronics within the immediate Salida area for the elderly, disabled or unable. So, please call us if you need help. 
 
 **FREE Recyclables; **
-
-• Home Printers 
 
 • Computers 
 
@@ -54,4 +59,10 @@ Knight Custom Electronics upholds a strict 100% NO LANDFILL Policy. This means t
 
 • Remotes
 
-[0]: http://electronicrecyclers.com/
+• Cell Phones
+
+• Satellite Dishes 
+
+\*\*We really just take ALL electronics, so if you have something that is not listed here, and it's an electronic, please bring it in.
+
+\*\*I can also take scrap metals if they're within the size of around 24"x24".
