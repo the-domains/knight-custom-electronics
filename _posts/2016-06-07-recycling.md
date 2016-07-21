@@ -14,8 +14,8 @@ description: >-
   electronics. While we work hard to offer this service for mostly free, we do
   have pricing for some electronics that have a high recycling expense, we also
   accept donations to help us cover the cost. 
-datePublished: '2016-07-21T17:57:48.297Z'
-dateModified: '2016-07-21T17:57:43.299Z'
+datePublished: '2016-07-21T21:07:00.271Z'
+dateModified: '2016-07-21T21:06:57.767Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-07-recycling.md
@@ -39,7 +39,7 @@ Knight Custom Electronics upholds a strict 100% NO LANDFILL policy, when it come
 
 • Medium Printers - $25 - These tend to have the large roller ink cartridges
 
-• Smal Printers - $15 
+• Small Printers - $15 
 
 \*\*Please do not allow these prices to discourage you from recycling your electronics. If you are on a fixed income or have trouble paying, please talk to me first, we'll work it out. 
 
