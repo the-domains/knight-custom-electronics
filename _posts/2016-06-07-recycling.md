@@ -14,8 +14,8 @@ description: >-
   electronics. While we work hard to offer this service for mostly free, we do
   have pricing for some electronics that have a high recycling expense, we also
   accept donations to help us cover the cost. 
-datePublished: '2016-07-21T21:07:00.271Z'
-dateModified: '2016-07-21T21:06:57.767Z'
+datePublished: '2016-07-27T20:52:24.551Z'
+dateModified: '2016-07-27T20:52:20.001Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-07-recycling.md
@@ -31,15 +31,15 @@ Knight Custom Electronics upholds a strict 100% NO LANDFILL policy, when it come
 
 **Recyclables We Charge For;**
 
-• TVs and Monitors - $25 for under 30", $45 for over 30". 
+• Tube TVs and Monitors - $25 for under 30", $45 for over 30". 
 
-• Flat screen TVs or Monitors - $25 for any size
+• Flat Screen TVs and Monitors - $25 for any size
 
 • Large Floor Standing Printers - $45 
 
-• Medium Printers - $25 - These tend to have the large roller ink cartridges
+• Medium Printers - $25 - These are printer, copier and fax machines in one
 
-• Small Printers - $15 
+• Small Printers - $10
 
 \*\*Please do not allow these prices to discourage you from recycling your electronics. If you are on a fixed income or have trouble paying, please talk to me first, we'll work it out. 
 
@@ -62,6 +62,8 @@ Knight Custom Electronics upholds a strict 100% NO LANDFILL policy, when it come
 • Cell Phones
 
 • Satellite Dishes 
+
+• Batteries - From watch size to car batteries we take them all!
 
 \*\*We really just take ALL electronics, so if you have something that is not listed here, and it's an electronic, please bring it in.
 
