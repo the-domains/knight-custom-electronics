@@ -14,8 +14,8 @@ description: >-
   electronics. While we work hard to offer this service for mostly free, we do
   have pricing for some electronics that have a high recycling expense, we also
   accept donations to help us cover the cost. 
-datePublished: '2016-07-27T20:52:24.551Z'
-dateModified: '2016-07-27T20:52:20.001Z'
+datePublished: '2016-08-16T20:17:40.460Z'
+dateModified: '2016-08-16T20:17:32.092Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-07-recycling.md
@@ -35,11 +35,9 @@ Knight Custom Electronics upholds a strict 100% NO LANDFILL policy, when it come
 
 • Flat Screen TVs and Monitors - $25 for any size
 
-• Large Floor Standing Printers - $45 
+• Large Floor Standing Printers - $40
 
-• Medium Printers - $25 - These are printer, copier and fax machines in one
-
-• Small Printers - $10
+• Home Printers - $5
 
 \*\*Please do not allow these prices to discourage you from recycling your electronics. If you are on a fixed income or have trouble paying, please talk to me first, we'll work it out. 
 
